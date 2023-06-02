@@ -87,7 +87,7 @@ If you are new to these, here are a few references you can complete prior to cla
 
 <img style="float: left; margin: 0px 15px 15px 0px;" src="https://raw.githubusercontent.com/microsoft/sqlworkshops/master/graphics/bulletlist.png"> <h3>Setup</h3>
 
-<a href="url" target="_blank">A full pre-requisites document is located here</a>. These instructions should be completed before the workshop starts, since you will not have time to cover these in class. <i>Remember to turn off any Virtual Machines from the Azure Portal when not taking the class so that you do incur charges (shutting down the machine in the VM itself is not sufficient)</i>.
+<a href="https://github.com/yorek/sqlworkshops-sqldev/blob/master/sqldev/00%20-%20Pre-Requisites.md" target="_blank">A full pre-requisites document is located here</a>. These instructions should be completed before the workshop starts, since you will not have time to cover these in class. <i>Remember to turn off any Virtual Machines from the Azure Portal when not taking the class so that you do incur charges (shutting down the machine in the VM itself is not sufficient)</i>.
 
 <p style="border-bottom: 1px solid lightgrey;"></p>
 
@@ -122,18 +122,25 @@ This is a modular workshop, and in each section, you'll learn concepts, technolo
   <tr><td style="background-color: AliceBlue; color: black;"><b>Module</b></td><td style="background-color: AliceBlue; color: black;"><b>Topics</b></td></tr>
 
   <tr><td><a href="url" target="_blank">01 - Introduction and Overview </a></td><td> Introductions, pre-requisites check, environment setup, overview of the workshop</td></tr>
+  
   <tr><td style="background-color: AliceBlue; color: black;"><a href="url" target="_blank">02 - Tool Enhancements</a> </td><td td style="background-color: AliceBlue; color: black;"> Implementing the features of SQLCMD-GO</td></tr>
-  <tr><td><a href="url" target="_blank">03 - JSON Enhancements </a></td><td> Overview (OPENJSON + FOR JSON), Newly added feature JSON_OBJECT, Tips & Tricks (Use JSON to pass arrays to SPs), JSON Data Type </td></tr>
-  <tr><td style="background-color: AliceBlue; color: black;"><a href="url" target="_blank">04 - Function Enhancements</a> </td><td td style="background-color: AliceBlue; color: black;"> New String Functions</td></tr>  <tr><td><a href="url" target="_blank">05 - Engine Enhancements </a></td><td> Optimized Locking</td></tr>
-  <tr><td style="background-color: AliceBlue; color: black;"><a href="url" target="_blank">06 - Native Ingtegrations with Other Services</a> </td><td td style="background-color: AliceBlue; color: black;"> REST and GraphQL support via Data API Builder, OneLake Integration</td></tr>
+  
+  <tr><td><a href="url" target="_blank">03 - Native Ingtegrations with Other Services </a></td><td>  REST and GraphQL support via Data API Builder, OneLake Integration </td></tr>
 
+  <tr><td><a href="url" target="_blank">04 - JSON Enhancements </a></td><td> Overview (OPENJSON + FOR JSON), Newly added feature JSON_OBJECT, Tips & Tricks (Use JSON to pass arrays to SPs), JSON Data Type </td></tr>
+  
+  <tr><td style="background-color: AliceBlue; color: black;"><a href="url" target="_blank">05 - Function Enhancements</a> </td>
+    <td td style="background-color: AliceBlue; color: black;"> New String Functions</td></tr>  
+    
+    <tr><td><a href="url" target="_blank">06 - Engine Enhancements </a></td><td> Optimized Locking</td></tr>
+  
 </table>
 
 <p style="border-bottom: 1px solid lightgrey;"></p>
 
 <p><img style="float: left; margin: 0px 15px 15px 0px;" src="https://raw.githubusercontent.com/microsoft/sqlworkshops/master/graphics/geopin.png"><b>Next Steps</b></p>
 
-Next, Continue to <a href="https://github.com/yorek/sqlworkshops-sqldev/blob/master/workshopshortname/00%20-%20Pre-Requisites.md" target="_blank"><i> Pre-Requisites</i></a>
+Next, Continue to <a href="https://github.com/yorek/sqlworkshops-sqldev/blob/master/sqldev/00%20-%20Pre-Requisites.md" target="_blank"><i> Pre-Requisites</i></a>
 
 # Contributing
 
