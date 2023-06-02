@@ -121,11 +121,11 @@ This is a modular workshop, and in each section, you'll learn concepts, technolo
 
   <tr><td style="background-color: AliceBlue; color: black;"><b>Module</b></td><td style="background-color: AliceBlue; color: black;"><b>Topics</b></td></tr>
 
-  <tr><td><a href="url" target="_blank">TODO: 01 - Module Name </a></td><td> TODO: Module Description</td></tr>
-  <tr><td style="background-color: AliceBlue; color: black;"><a href="url" target="_blank">TODO: 02 - Module 2</a> </td><td td style="background-color: AliceBlue; color: black;"> TODO: Module Description</td></tr>
-  <tr><td><a href="url" target="_blank">TODO: 03 - Module Name </a></td><td> TODO: Module Description</td></tr>
-  <tr><td style="background-color: AliceBlue; color: black;"><a href="url" target="_blank">TODO: 04 - Module 2</a> </td><td td style="background-color: AliceBlue; color: black;"> TODO: Module Description</td></tr>  <tr><td><a href="url" target="_blank">TODO: 05 - Module Name </a></td><td> TODO: Module Description</td></tr>
-  <tr><td style="background-color: AliceBlue; color: black;"><a href="url" target="_blank">TODO: 06 - Module 2</a> </td><td td style="background-color: AliceBlue; color: black;"> TODO: Module Description</td></tr>
+  <tr><td><a href="url" target="_blank">01 - Introduction and Overview </a></td><td> Introductions, pre-requisites check, environment setup, overview of the workshop</td></tr>
+  <tr><td style="background-color: AliceBlue; color: black;"><a href="url" target="_blank">02 - Tool Enhancements</a> </td><td td style="background-color: AliceBlue; color: black;"> Implementing the features of SQLCMD-GO</td></tr>
+  <tr><td><a href="url" target="_blank">03 - JSON Enhancements </a></td><td> Overview (OPENJSON + FOR JSON), Newly added feature JSON_OBJECT, Tips & Tricks (Use JSON to pass arrays to SPs), JSON Data Type </td></tr>
+  <tr><td style="background-color: AliceBlue; color: black;"><a href="url" target="_blank">04 - Function Enhancements</a> </td><td td style="background-color: AliceBlue; color: black;"> New String Functions</td></tr>  <tr><td><a href="url" target="_blank">05 - Engine Enhancements </a></td><td> Optimized Locking</td></tr>
+  <tr><td style="background-color: AliceBlue; color: black;"><a href="url" target="_blank">06 - Native Ingtegrations with Other Services</a> </td><td td style="background-color: AliceBlue; color: black;"> REST and GraphQL support via Data API Builder, OneLake Integration</td></tr>
 
 </table>
 
