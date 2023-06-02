@@ -125,7 +125,7 @@ This is a modular workshop, and in each section, you'll learn concepts, technolo
   
   <tr><td style="background-color: AliceBlue; color: black;"><a href="https://github.com/yorek/sqlworkshops-sqldev/blob/master/sqldev/02%20-%20Tool%20Enhancements.md" target="_blank">02 - Tool Enhancements</a> </td><td td style="background-color: AliceBlue; color: black;"> Implementing the features of SQLCMD-GO</td></tr>
   
-  <tr><td><a href="https://github.com/yorek/sqlworkshops-sqldev/blob/master/sqldev/03%20-%20Native%20Ingtegrations%20with%20Other%20Services.md" target="_blank">03 - Native Ingtegrations with Other Services </a></td><td>  REST and GraphQL support via Data API Builder, OneLake Integration </td></tr>
+  <tr><td><a href="https://github.com/yorek/sqlworkshops-sqldev/blob/master/sqldev/03%20-%20Native%20Ingtegrations%20with%20Other%20Services.md" target="_blank">03 - Native Integrations with Other Services </a></td><td>  REST and GraphQL support via Data API Builder, OneLake Integration </td></tr>
 
   <tr><td><a href="https://github.com/yorek/sqlworkshops-sqldev/blob/master/sqldev/04%20-%20JSON%20Enhancements.md" target="_blank">04 - JSON Enhancements </a></td><td> Overview (OPENJSON + FOR JSON), Newly added feature JSON_OBJECT, Tips & Tricks (Use JSON to pass arrays to SPs), JSON Data Type </td></tr>
   
