@@ -1,6 +1,6 @@
 ![](graphics/microsoftlogo.png)
 
-# Workshop: Developer Enhancements for SQL Server and Azure SQL DB
+# Workshop: <TODO: Enter workshop name>
 
 #### <i>A Microsoft Course from the SQL Server team</i>
 
@@ -8,11 +8,11 @@
 
 <img style="float: left; margin: 0px 15px 15px 0px;" src="https://raw.githubusercontent.com/microsoft/sqlworkshops/master/graphics/textbubble.png"> <h2>About this Workshop</h2>
 
-Welcome to this Microsoft solutions workshop on *Developer Enhancements for SQL Server and Azure SQL DB*. In this workshop, you'll learn take advantage of incredibly powerful features that has been recently added or announced so that you'll be able to take advantage of the latest technology for developers using SQL Server and Azure SQL DB.
+Welcome to this Microsoft solutions workshop on *<TODO: Enter workshop name>*. In this workshop, you'll learn <TODO: Describe what the students will learn>
 
-The focus of this workshop is to understand more efficient and productive when creating new solutions or when modernizing existing ones.
+The focus of this workshop is to understand <TODO: Describe the workshop's primay focus in one sentence>
 
-You'll start by understanding the latest functions, performance, expression and API builder support for a sample application, with a focus on how to extrapolate what you have learned to create other solutions for your organization.
+You'll start by <TODO: Describe what the flow of the workshop will be>, with a focus on how to extrapolate what you have learned to create other solutions for your organization.
 
 This [github README.MD file](https://lab.github.com/githubtraining/introduction-to-github) explains how the workshop is laid out, what you will learn, and the technologies you will use in this solution. To download this Lab to your local computer, click the **Clone or Download** button you see at the top right side of this page. [More about that process is here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
 
@@ -25,17 +25,13 @@ You can view all of the [courses and other workshops our team has created at thi
 In this workshop you'll learn:
 <br>
 
-- New JSON functions
-- The new native JSON Data Type
-- Improved string manipulation functions
-- Optimized Locking
-- RegEx functions
-- Change Data Stream
-- REST and GraphQL support via Data API Builder
-- Native integration with Azure Functions and other Azure Services
-- Integrating SQL Server Data using connections to OneLake
+- <TODO: Bullet-point on learning obective>
+- <TODO: Bullet-point on learning obective>
+- <TODO: Bullet-point on learning obective>
 
-The goal of this workshop is to train Developers in creating modern applications using the latest new features and improvements in SQL Server, on-premises, in Virtual Machines, Managed Instance, and Azure SQL DB environments.
+<TODO: Enter the text you use when you submit the description for this course to a presentation, or advertising>
+
+The goal of this workshop is to train <TODO: Describe who you would train for this and why>.
 
 The concepts and skills taught in this workshop form the starting points for:
 
@@ -133,7 +129,7 @@ This is a modular workshop, and in each section, you'll learn concepts, technolo
 
 <p><img style="float: left; margin: 0px 15px 15px 0px;" src="https://raw.githubusercontent.com/microsoft/sqlworkshops/master/graphics/geopin.png"><b>Next Steps</b></p>
 
-Next, Continue to <a href="https://github.com/yorek/sqlworkshops-sqldev/blob/master/workshopshortname/00%20-%20Pre-Requisites.md" target="_blank"><i> Pre-Requisites</i></a>
+Next, Continue to <a href="url" target="_blank"><i> Pre-Requisites</i></a>
 
 # Contributing
 
