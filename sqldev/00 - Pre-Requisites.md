@@ -1,6 +1,6 @@
 ![](../graphics/microsoftlogo.png)
 
-# Workshop: <TODO: Enter workshop name>
+# Workshop: Developer Enhancements for SQL Server and Azure SQL DB
 
 #### <i>A Microsoft Course from the SQL Server team</i>
 
